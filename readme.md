@@ -1,5 +1,10 @@
 # Opis działania projektu
 
+## Wykonanie projektu:
+
+* Nataniel Gąsiorek
+* Karina Królikowska
+
 ## Aby odpalić bazę danych w naszej aplikacji musimy włączyć konsolę menadżera pakietów:
 
 ![image](https://github.com/natanielgasiorek/eKino/assets/91785152/d5d9b084-d0fe-4eac-bf70-008ef0f2d20d)
