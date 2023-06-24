@@ -1,4 +1,4 @@
-# Opis działania projektu ASP.NET
+# Opis działania projektu
 
 ## Aby odpalić bazę danych w naszej aplikacji musimy włączyć konsolę menadżera pakietów:
 
