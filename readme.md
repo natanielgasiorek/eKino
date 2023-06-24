@@ -23,6 +23,19 @@ Gdy próbujemy ingerować w zakładkę "POST" bez admina wyrzuci błąd 401.
 
 ![image](https://github.com/natanielgasiorek/eKino/assets/91785152/35a1b61c-bad1-4091-b4dc-2db49630b40e)
 
+## Co mogę zrobić w zakładce aktorzy?
+
+W "GET" mogę pobrać wszystkich dotychczas dodanych aktorów:
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/a1004a9b-425d-4bad-bebd-18564a04e03d)
+W "POST" mogę dodać nowego aktora:
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/8bfab3cc-ef42-46b7-8273-512da2cffe32)
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/a85ade3f-8411-47ae-8720-18c72e14451d)
+W "GET" ID mogę pobrać dane konkretnego aktora:
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/5094d635-4ebf-4fc4-ae64-f8629a50c0e0)
+W "PUT" edytujemy aktora na podstawie klucza ID.
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/82336532-be6d-49bf-8656-363524455ed6)
+W "DELETE" usówamy aktora za pomącą wpisania jego ID.
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/06f9b34f-0f37-4620-b7a5-ecd186cb04c1)
 
 ## Co zrobić aby móc się zalogować jako ADMIN lub USER? 
 
