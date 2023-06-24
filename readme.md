@@ -17,6 +17,22 @@ Jest to aplikacja do rezerwacji biletów elektronicznych do kina. Aplikacja umo�
 
 ![image](https://github.com/natanielgasiorek/eKino/assets/91785152/d725bb4a-5936-47c9-9c21-a5f0593414aa)
 
-Gdy nie jesteśmy zalogowani jako użytkownik albo admin, możemy tylko pobrać dostępnych aktorów .
+Gdy nie jesteśmy zalogowani jako użytkownik albo admin, możemy tylko pobrać dostępnych aktorów.
+
+Gdy próbujemy ingerować w zakładkę "POST" bez admina wyrzuci błąd 401.
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/35a1b61c-bad1-4091-b4dc-2db49630b40e)
+
+
+## Co zrobić aby się móc zalogować jako ADMIN lub USER? 
+
+### Administrator
+- Login: admin@gmail.com
+- Password: Admin@1234!
+
+### User
+- Login: jan.kowalski@gmail.com
+- Password: Janek@1234!
+
 
 
