@@ -46,6 +46,20 @@ Gdy próbujemy ingerować w zakładkę "POST" bez admina wyrzuci błąd 401.
 
 ![image](https://github.com/natanielgasiorek/eKino/assets/91785152/cb7f47d4-e412-4a24-9ce7-ccc461bcb064)
 
+### Klikamy przycisk autoryzacji:
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/ae4ba621-35f2-4183-a2cc-bf1b2f6bc5ae)
+
+### Wpisujemy nasz klucz bez cudzysłowia i z przedrostkiem bearer 
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/f8ee6bb1-9fd3-4503-91a1-e335d8bbaa4c)
+
+### Otrzymujemy komunikat że zalogowaliśmy się pomyślnie:
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/b6d4b4ee-1a81-4865-8a22-1f93edcea911)
+
+
+
 
 
 
