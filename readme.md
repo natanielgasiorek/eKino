@@ -24,7 +24,7 @@ Gdy próbujemy ingerować w zakładkę "POST" bez admina wyrzuci błąd 401.
 ![image](https://github.com/natanielgasiorek/eKino/assets/91785152/35a1b61c-bad1-4091-b4dc-2db49630b40e)
 
 
-## Co zrobić aby się móc zalogować jako ADMIN lub USER? 
+## Co zrobić aby móc się zalogować jako ADMIN lub USER? 
 
 ### Administrator
 - Login: admin@gmail.com
@@ -33,6 +33,19 @@ Gdy próbujemy ingerować w zakładkę "POST" bez admina wyrzuci błąd 401.
 ### User
 - Login: jan.kowalski@gmail.com
 - Password: Janek@1234!
+
+### Przechodzimy do miejsca z napisem Account:
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/357abab3-5918-4cbc-9933-579964956193)
+
+### Wpisujemy login i hasło admina lub użytkownika:
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/e05400b4-4907-42fc-b476-78e64d7b3c92)
+
+### Kopiujemy nasz klucz:
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/cb7f47d4-e412-4a24-9ce7-ccc461bcb064)
+
 
 
 
