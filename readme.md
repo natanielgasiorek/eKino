@@ -58,6 +58,27 @@ Gdy próbujemy ingerować w zakładkę "POST" bez admina wyrzuci błąd 401.
 
 ![image](https://github.com/natanielgasiorek/eKino/assets/91785152/b6d4b4ee-1a81-4865-8a22-1f93edcea911)
 
+## Kina/Producenci/Filmy działają tak samo jak aktorzy.
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/329a8bfb-8cdd-47b5-9ed3-cfbf94cb1939)
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/f43dbd48-0a31-4428-befd-d0b776ff0a2a)
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/c58ba5f5-3297-49d0-a496-3d246126547c)
+
+## Co może zrobić użytkownik:
+
+### Dla użytkownika przeznaczone są dwie zakładki. 
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/d3cb6250-b0a8-4e84-9c9c-cd2077b19a0e)
+
+![image](https://github.com/natanielgasiorek/eKino/assets/91785152/42f36bdb-af22-4ce0-8d8d-4366919c5727)
+
+### W koszyku możemy dodawać/edytować/usuwać bilety które chcemy zakupić.
+### Jak w koszyku bęziemy mieli wszystko gotowe, przechodzimy do zakładki zamówienia. Wchodzimy w "POST" i zatwierdzamy wszystko. 
+### Następnie w "GET" możemy pobrac sobie wszystkie bilety które do tej pory zamówiliśmy.
+
+
 
 
 
